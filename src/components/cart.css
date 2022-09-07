@@ -1,0 +1,11 @@
+.cart .parent{
+    display: flex;
+}
+
+.cart .items {
+    flex: 3;
+}
+
+.cart .side-menu {
+    flex: 3;
+}

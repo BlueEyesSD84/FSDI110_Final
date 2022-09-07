@@ -1,0 +1,33 @@
+.product-h5{
+    color: rgb(206, 24, 161) 
+}
+.product img {
+    width: 220px;
+    height: 300px;
+    margin-top: 15px;
+    
+}
+.product .prices{
+    display: flex;
+
+}
+.product .price{
+    margin-left: 10px;
+    padding: 8px;
+}
+
+.product .total{
+    margin: 5px;
+    padding: 2px;
+}
+.cart{
+    margin-left: 5px;
+}
+.product .qty{
+    flex: 3;
+}
+.product .button{
+    flex: 2;
+    text-align: center;
+    margin-top: 10px;
+}

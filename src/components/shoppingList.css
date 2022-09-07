@@ -1,0 +1,14 @@
+shop-list {
+    padding: 120px 10px;
+}
+
+.shop-list ul {
+    text-align: center;
+}
+
+.shop-list ul li {
+    list-style-type: none;
+    margin-bottom: 5px;
+    font-weight: bold;
+    color: #333;
+}

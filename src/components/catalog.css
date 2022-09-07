@@ -1,0 +1,24 @@
+
+.catalog h1 {
+    text-align: center;
+}
+
+.catalog .product {
+    display: inline-block;
+    width: 280px;
+    height: 350px;
+    margin-bottom:  60px;
+    margin-left: 10px;
+}
+.catalog {
+    background-color: lightgray;
+}
+.catalog .btn{
+    margin-left: 10px;
+}
+.catalog .catList{
+    color: blue;
+}
+.catalog{
+    padding-bottom: 30px;
+}

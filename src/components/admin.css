@@ -1,0 +1,15 @@
+.admin .parent{
+    display: flex;
+}
+
+.admin .parent .products{
+    flex: 1;
+}
+
+.admin .parent .list {
+    flex: 1;    
+}
+.admin .banner-1 img {
+    width: 100%;
+}
+

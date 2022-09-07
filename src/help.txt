@@ -1,0 +1,12 @@
+# create a new react project
+
+npx create-react-app name_here
+
+# start project
+
+npm start
+
+
+### to install the router for the pages###
+npm i -s react-router-dom
+ 

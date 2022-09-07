@@ -1,0 +1,23 @@
+.prod-cart {
+    border: 1px solid red;
+    border-radius: 4px;
+    background-color: white;
+    padding: 5px 10px;
+    margin: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.prod-cart h6 {
+    flex: 5;
+    text-align: left;
+}
+.prod-cart img{
+    width: 100px;
+}
+.prod-cart label{
+    flex: 1;
+}
+.prod-cart button{
+    flex: 1;
+}

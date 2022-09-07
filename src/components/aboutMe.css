@@ -1,0 +1,34 @@
+.about-me .parent {
+    display: flex;
+    height: 100vh;
+}
+.about-me .parent .About{
+    flex: 1;
+   padding: 10px;
+    
+}
+.about-me .parent .JAJA_writeUp{
+    flex: 1;
+    padding: 50px;
+    color: white;
+   
+}
+.about-me .BG{
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    width: 100vw;
+}
+.about-me .parent .About h3{
+    color: white;
+}
+.about-me h1,h4{
+    color: white;
+}
+.about-me .parent .About img{
+    height: 60%;
+    border-radius: 20px;
+}
+
+
